@@ -1,5 +1,15 @@
-PDFseries
+PDFseries is licensed under the Mozilla Public License Version 2.0
 
-Copyright © 2020-2021 NeceDev. All rights reserved.
+Mozilla summarizes the license scope as follows:
 
-This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this project, you can obtain one at http://mozilla.org/MPL/2.0/.
+    MPL: The copyleft applies to any files containing MPLed code.
+
+That means:
+
+    You can use the unchanged source code both in private and commercially.
+    When distributing, you must publish the source code of any changed files licensed under the MPL 2.0 under a) the MPL 2.0 itself or b) a compatible license (e.g. GPL 3.0 or Apache License 2.0).
+    You needn't publish the source code of your library as long as the files licensed under the MPL 2.0 are unchanged.
+
+Please read the MPL 2.0 FAQ if you have further questions regarding the license.
+
+You can read the full terms here: LICENSE.
